@@ -1,4 +1,9 @@
-﻿using System.Collections;
+﻿/*
+ * continueGame2.cs
+ * @author Carl Moylan 15014355
+ * 18S.04.2017
+ */ 
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
